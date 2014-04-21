@@ -1,4 +1,4 @@
-GetTip v1.0
-===========
+GetTip
+======
 
 jQuery Plugin to create user-friendly tooltips
